@@ -83,9 +83,13 @@ _The Pull-Request should contain the following information._
 
 ## Screenshots of the Website
 
-![alt text](screenshots/home-page.png)
+![alt text](screenshots/home-page-1.png)
 <br>
-![alt text](screenshots/template.png)
+![alt text](screenshots/home-page-2.png)
+<br>
+![alt text](screenshots/template-1.png)
+<br>
+![alt text](screenshots/template-2.gif)
 
 ## Contributors
 
